@@ -1,4 +1,6 @@
 # EXNO:4-DS
+## Name: SAJITH AHAMED F
+## REG.NO: 212223240144
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -24,6 +26,23 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+![image](https://github.com/user-attachments/assets/63c42e2f-fc60-4855-8a6c-e2aa0c5abb98)
+
+![image](https://github.com/user-attachments/assets/c14ac313-1e20-4b2e-80f3-40bab9ca2bc6)
+
+![image](https://github.com/user-attachments/assets/42763bf8-fb3e-4806-906a-213a7c9f7bf2)
+
+![image](https://github.com/user-attachments/assets/ca2ca7dc-83be-4a9b-8b18-6a8c789fa288)
+
+![image](https://github.com/user-attachments/assets/1bea1ab1-a652-43f7-9a5f-4950bc6e55c0)
+
+![image](https://github.com/user-attachments/assets/531d28ed-63c4-4512-89ef-27ee50d56ae8)
+
+![image](https://github.com/user-attachments/assets/1a703b5d-6454-4e4b-8169-93fc0e93f4a5)
+
+![image](https://github.com/user-attachments/assets/2acea4b2-1d27-47ca-8c8d-0f7e72a04f26)
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      Thus, the program has been executed and the output is checked.
